@@ -4,9 +4,9 @@ angular.module("formDemo", [])
 
 .controller("LocationFormCtrl", function ($scope) {
     $scope.location = {
-        region: "Wellington Region",
-        city: "Wellington",
-        suburb: "Mt. Cook"
+        region: "Sindh",
+        city: "Karachi",
+        suburb: "Sea"
     };
 })
 
